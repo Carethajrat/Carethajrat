@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carethajrat
-- 👀 I’m a diploma computer engineering holder and I'm interested in web developement.
-- 🌱 I’m currently learning full stack web developement grom udemy.
+- 👀 I’m a diploma computer engineering holder,my primary interest is web developement.
+- 🌱 I’m currently learning full stack web developement from udemy.
 - 💞️ I’m looking to collaborate with my fellow developers to learn in every possible way.
 - 📫 ping me a message @khatrihajra173@gmail.com
 <!---
